@@ -1,4 +1,4 @@
-dic
-===
+dicfi.github.io
+===============
 
-Departamento Ingeniería de Computadoras
+Pagina web de los proyectos
